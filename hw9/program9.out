@@ -1,0 +1,7 @@
+
+Euler output (N = 4)
+t =     1   yaprx =         2   yexct =         2   error =         0
+t =  1.25   yaprx =      2.75   yexct = 2.7789294   error =0.028929439
+t =   1.5   yaprx =      3.55   yexct = 3.6081977   error =0.058197662
+t =  1.75   yaprx = 4.3916667   yexct = 4.4793276   error =0.087660962
+t =     2   yaprx = 5.2690476   yexct = 5.3862944   error =0.11724674

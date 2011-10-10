@@ -1,0 +1,325 @@
+Nick Carneiro
+Euler output (N = 10)
+t =     0   yaprx =         0   yexct =         0   error =         0
+t =   0.3   yaprx =         3   yexct = 2.9131261   error =0.086873875
+t =   0.6   yaprx =      5.73   yexct = 5.3704957   error =0.35950433
+t =   0.9   yaprx =  7.745013   yexct = 7.1629787   error = 0.5820343
+t =   1.2   yaprx = 8.9454562   yexct = 8.3365461   error =0.60891014
+t =   1.5   yaprx = 9.5448206   yexct = 9.0514825   error =0.49333807
+t =   1.8   yaprx = 9.8117126   yexct = 9.4680601   error =0.34365247
+t =   2.1   yaprx = 9.9236215   yexct = 9.7045194   error =0.21910211
+t =   2.4   yaprx = 9.9692736   yexct = 9.8367486   error =  0.132525
+t =   2.7   yaprx = 9.9876811   yexct = 9.9100745   error =0.077606571
+t =     3   yaprx = 9.9950679   yexct = 9.9505475   error =0.044520354
+
+Euler output (N = 20)
+t =     0   yaprx =         0   yexct =         0   error =         0
+t =  0.15   yaprx =       1.5   yexct = 1.4888503   error =0.011149664
+t =   0.3   yaprx =   2.96625   yexct = 2.9131261   error =0.053123875
+t =  0.45   yaprx = 4.3342704   yexct = 4.2189901   error =0.11528036
+t =   0.6   yaprx = 5.5524819   yexct = 5.3704957   error =0.18198624
+t =  0.75   yaprx = 6.5900311   yexct = 6.3514895   error =0.23854156
+t =   0.9   yaprx = 7.4386034   yexct = 7.1629787   error =0.27562474
+t =  1.05   yaprx = 8.1086111   yexct = 7.8180636   error =0.29054755
+t =   1.2   yaprx = 8.6223675   yexct = 8.3365461   error =0.28582144
+t =  1.35   yaprx = 9.0071892   yexct = 8.7405329   error =0.26665631
+t =   1.5   yaprx = 9.2902473   yexct = 9.0514825   error =0.23876479
+t =  1.65   yaprx = 9.4956169   yexct = 9.2885762   error =0.20704068
+t =   1.8   yaprx = 9.6431158   yexct = 9.4680601   error =0.17505567
+t =  1.95   yaprx = 9.7482706   yexct = 9.6031939   error =0.14507668
+t =   2.1   yaprx = 9.8228389   yexct = 9.7045194   error =0.11831951
+t =  2.25   yaprx = 9.8755164   yexct = 9.7802611   error =0.095255275
+t =   2.4   yaprx = 9.9126291   yexct = 9.8367486   error =0.075880477
+t =  2.55   yaprx = 9.9387258   yexct =  9.878804   error =0.059921862
+t =   2.7   yaprx = 9.9570518   yexct = 9.9100745   error =0.046977228
+t =  2.85   yaprx = 9.9699086   yexct = 9.9333039   error =0.036604713
+t =     3   yaprx = 9.9789224   yexct = 9.9505475   error =0.028374878
+
+Euler output (N = 40)
+t =     0   yaprx =         0   yexct =         0   error =         0
+t = 0.075   yaprx =      0.75   yexct =0.74859691   error =0.0014030931
+t =  0.15   yaprx = 1.4957812   yexct = 1.4888503   error =0.0069309138
+t = 0.225   yaprx =  2.229001   yexct = 2.2127847   error =0.016216359
+t =   0.3   yaprx = 2.9417377   yexct = 2.9131261   error =0.028611572
+t = 0.375   yaprx =  3.626834   yexct =  3.583574   error =0.043260058
+t =  0.45   yaprx = 4.2781796   yexct = 4.2189901   error =0.05918955
+t = 0.525   yaprx = 4.8909084   yexct =  4.815498   error =0.075410463
+t =   0.6   yaprx = 5.4615011   yexct = 5.3704957   error =0.091005386
+t = 0.675   yaprx = 5.9877911   yexct = 5.8825926   error =0.10519854
+t =  0.75   yaprx = 6.4688888   yexct = 6.3514895   error =0.11739926
+t = 0.825   yaprx = 6.9050399   yexct =  6.777821   error =0.12721886
+t =   0.9   yaprx = 7.2974431   yexct = 7.1629787   error =0.13446435
+t = 0.975   yaprx =  7.648048   yexct = 7.5089328   error =0.13911515
+t =  1.05   yaprx = 7.9593532   yexct = 7.8180636   error =0.14128963
+t = 1.125   yaprx = 8.2342184   yexct = 8.0930107   error =0.14120773
+t =   1.2   yaprx = 8.4757008   yexct = 8.3365461   error =0.13915471
+t = 1.275   yaprx = 8.6869195   yexct = 8.5514703   error =0.13544921
+t =  1.35   yaprx = 8.8709502   yexct = 8.7405329   error =0.13041734
+t = 1.425   yaprx =  9.030747   yexct = 8.9063737   error =0.12437338
+t =   1.5   yaprx = 9.1690891   yexct = 9.0514825   error =0.11760656
+t = 1.575   yaprx = 9.2885476   yexct = 9.1781744   error = 0.1103732
+t =  1.65   yaprx = 9.3914693   yexct = 9.2885762   error =0.10289304
+t = 1.725   yaprx = 9.4799715   yexct = 9.3846228   error =0.095348734
+t =   1.8   yaprx = 9.5559476   yexct = 9.4680601   error =0.087887465
+t = 1.875   yaprx = 9.6210766   yexct = 9.5404526   error =0.080623983
+t =  1.95   yaprx = 9.6768382   yexct = 9.6031939   error =0.07364434
+t = 2.025   yaprx = 9.7245292   yexct = 9.6575193   error =0.067009906
+t =   2.1   yaprx = 9.7652807   yexct = 9.7045194   error =0.060761357
+t = 2.175   yaprx = 9.8000754   yexct =  9.745153   error =0.054922405
+t =  2.25   yaprx = 9.8297643   yexct = 9.7802611   error =0.049503182
+t = 2.325   yaprx = 9.8550823   yexct = 9.8105791   error = 0.0445032
+t =   2.4   yaprx = 9.8766625   yexct = 9.8367486   error =0.039913894
+t = 2.475   yaprx =  9.895049   yexct = 9.8593283   error =0.035720752
+t =  2.55   yaprx =  9.910709   yexct =  9.878804   error =0.031905077
+t = 2.625   yaprx = 9.9240429   yexct = 9.8955975   error =0.028445408
+t =   2.7   yaprx = 9.9353932   yexct = 9.9100745   error =0.025318652
+t = 2.775   yaprx = 9.9450529   yexct = 9.9225519   error =0.022500974
+t =  2.85   yaprx = 9.9532723   yexct = 9.9333039   error =0.019968472
+t = 2.925   yaprx = 9.9602651   yexct = 9.9425674   error =0.017697684
+t =     3   yaprx = 9.9662135   yexct = 9.9505475   error =0.015665957
+
+Euler output (N = 80)
+t =     0   yaprx =         0   yexct =         0   error =         0
+t =0.0375   yaprx =     0.375   yexct =0.37482432   error =0.00017568243
+t = 0.075   yaprx =0.74947266   yexct =0.74859691   error =0.00087574938
+t =0.1125   yaprx = 1.1223662   yexct = 1.1202778   error =0.0020884356
+t =  0.15   yaprx = 1.4926423   yexct = 1.4888503   error =0.0037920128
+t =0.1875   yaprx = 1.8592874   yexct =  1.853332   error =0.0059554205
+t = 0.225   yaprx = 2.2213239   yexct = 2.2127847   error =0.0085391792
+t =0.2625   yaprx = 2.5778203   yexct = 2.5663238   error =0.011496543
+t =   0.3   yaprx =  2.927901   yexct = 2.9131261   error =0.014774844
+t =0.3375   yaprx = 3.2707537   yexct = 3.2524367   error =0.01831696
+t = 0.375   yaprx = 3.6056368   yexct =  3.583574   error =0.022062858
+t =0.4125   yaprx = 3.9318845   yexct = 3.9059334   error =0.025951141
+t =  0.45   yaprx = 4.2489106   yexct = 4.2189901   error =0.02992054
+t =0.4875   yaprx = 4.5562109   yexct = 4.5222996   error =0.033911313
+t = 0.525   yaprx = 4.8533645   yexct =  4.815498   error =0.037866487
+t =0.5625   yaprx = 5.1400327   yexct = 5.0982997   error =0.041732933
+t =   0.6   yaprx = 5.4159579   yexct = 5.3704957   error =0.045462241
+t =0.6375   yaprx = 5.6809607   yexct = 5.6319493   error =0.049011383
+t = 0.675   yaprx = 5.9349357   yexct = 5.8825926   error =0.052343169
+t =0.7125   yaprx = 6.1778477   yexct = 6.1224212   error =0.055426506
+t =  0.75   yaprx =  6.409726   yexct = 6.3514895   error =0.058236465
+t =0.7875   yaprx = 6.6306588   yexct = 6.5699046   error =0.060754187
+t = 0.825   yaprx = 6.8407877   yexct =  6.777821   error =0.062966644
+t =0.8625   yaprx = 7.0403012   yexct = 6.9754349   error =0.064866294
+t =   0.9   yaprx = 7.2294293   yexct = 7.1629787   error =0.066450635
+t =0.9375   yaprx = 7.4084369   yexct = 7.3407152   error =0.067721709
+t = 0.975   yaprx = 7.5776184   yexct = 7.5089328   error =0.068685554
+t = 1.012   yaprx = 7.7372923   yexct = 7.6679406   error =0.069351647
+t =  1.05   yaprx = 7.8877959   yexct = 7.8180636   error =0.069732344
+t = 1.087   yaprx =  8.029481   yexct = 7.9596386   error =0.069842337
+t = 1.125   yaprx = 8.1627088   yexct = 8.0930107   error =0.069698135
+t = 1.163   yaprx =  8.287847   yexct = 8.2185294   error =0.069317583
+t =   1.2   yaprx = 8.4052655   yexct = 8.3365461   error =0.068719427
+t = 1.238   yaprx = 8.5153337   yexct = 8.4474107   error =0.067922918
+t = 1.275   yaprx = 8.6184178   yexct = 8.5514703   error =0.066947471
+t = 1.313   yaprx = 8.7148785   yexct = 8.6490662   error =0.065812369
+t =  1.35   yaprx = 8.8050694   yexct = 8.7405329   error =0.064536512
+t = 1.388   yaprx = 8.8893347   yexct = 8.8261965   error =0.063138214
+t = 1.425   yaprx = 8.9680087   yexct = 8.9063737   error =0.06163504
+t = 1.463   yaprx = 9.0414143   yexct = 8.9813706   error =0.060043676
+t =   1.5   yaprx = 9.1098624   yexct = 9.0514825   error =0.058379839
+t = 1.538   yaprx = 9.1736514   yexct = 9.1169932   error =0.056658215
+t = 1.575   yaprx = 9.2330669   yexct = 9.1781744   error =0.054892418
+t = 1.613   yaprx = 9.2883811   yexct = 9.2352862   error =0.053094976
+t =  1.65   yaprx = 9.3398535   yexct = 9.2885762   error =0.051277335
+t = 1.688   yaprx = 9.3877303   yexct = 9.3382804   error =0.049449876
+t = 1.725   yaprx = 9.4322448   yexct = 9.3846228   error =0.047621944
+t = 1.763   yaprx = 9.4736176   yexct = 9.4278157   error =0.045801889
+t =   1.8   yaprx = 9.5120572   yexct = 9.4680601   error =0.04399711
+t = 1.838   yaprx = 9.5477601   yexct =  9.505546   error =0.042214111
+t = 1.875   yaprx = 9.5809112   yexct = 9.5404526   error =0.040458551
+t = 1.913   yaprx = 9.6116842   yexct = 9.5729489   error =0.038735307
+t =  1.95   yaprx = 9.6402424   yexct = 9.6031939   error =0.037048525
+t = 1.988   yaprx = 9.6667389   yexct = 9.6313372   error =0.035401684
+t = 2.025   yaprx =  9.691317   yexct = 9.6575193   error =0.033797648
+t = 2.063   yaprx = 9.7141109   yexct = 9.6818722   error =0.032238723
+t =   2.1   yaprx = 9.7352461   yexct = 9.7045194   error =0.030726708
+t = 2.138   yaprx = 9.7548398   yexct = 9.7255768   error =0.02926295
+t = 2.175   yaprx = 9.7730014   yexct =  9.745153   error =0.027848383
+t = 2.213   yaprx = 9.7898331   yexct = 9.7633495   error =0.02648358
+t =  2.25   yaprx = 9.8054299   yexct = 9.7802611   error =0.025168793
+t = 2.288   yaprx = 9.8198807   yexct = 9.7959767   error =0.023903988
+t = 2.325   yaprx =  9.833268   yexct = 9.8105791   error =0.022688885
+t = 2.363   yaprx = 9.8456687   yexct = 9.8241457   error =0.021522989
+t =   2.4   yaprx = 9.8571542   yexct = 9.8367486   error =0.020405619
+t = 2.438   yaprx = 9.8677911   yexct = 9.8484552   error =0.019335938
+t = 2.475   yaprx = 9.8776412   yexct = 9.8593283   error =0.018312976
+t = 2.513   yaprx =  9.886762   yexct = 9.8694263   error =0.01733565
+t =  2.55   yaprx = 9.8952068   yexct =  9.878804   error =0.016402791
+t = 2.588   yaprx = 9.9030251   yexct = 9.8875119   error =0.015513154
+t = 2.625   yaprx = 9.9102629   yexct = 9.8955975   error =0.014665441
+t = 2.663   yaprx =  9.916963   yexct = 9.9031047   error =0.013858309
+t =   2.7   yaprx = 9.9231649   yexct = 9.9100745   error =0.01309039
+t = 2.738   yaprx = 9.9289054   yexct = 9.9165451   error =0.012360295
+t = 2.775   yaprx = 9.9342186   yexct = 9.9225519   error =0.011666627
+t = 2.813   yaprx = 9.9391359   yexct = 9.9281279   error =0.011007991
+t =  2.85   yaprx = 9.9436869   yexct = 9.9333039   error =0.010382998
+t = 2.888   yaprx = 9.9478984   yexct = 9.9381082   error =0.0097902752
+t = 2.925   yaprx = 9.9517959   yexct = 9.9425674   error =0.0092284665
+t = 2.963   yaprx = 9.9554025   yexct = 9.9467062   error =0.0086962415
+t =     3   yaprx = 9.9587398   yexct = 9.9505475   error =0.0081922972
+
+Taylor output (N = 10)
+t =     0   yaprx =         0   yexct =         0   error =         0
+t =   0.3   yaprx =  2.911773   yexct = 2.9131261   error =0.0013531245
+t =   0.6   yaprx = 5.5766736   yexct = 5.3704957   error =0.20617793
+t =   0.9   yaprx = 7.5829059   yexct = 7.1629787   error =0.41992721
+t =   1.2   yaprx =  8.820396   yexct = 8.3365461   error =0.48384991
+t =   1.5   yaprx = 9.4668275   yexct = 9.0514825   error =0.41534495
+t =   1.8   yaprx = 9.7690456   yexct = 9.4680601   error =0.30098544
+t =   2.1   yaprx = 9.9019898   yexct = 9.7045194   error =0.19747044
+t =   2.4   yaprx = 9.9587868   yexct = 9.8367486   error =0.12203821
+t =   2.7   yaprx =  9.982738   yexct = 9.9100745   error =0.072663498
+t =     3   yaprx = 9.9927819   yexct = 9.9505475   error =0.042234406
+
+Taylor output (N = 20)
+t =     0   yaprx =         0   yexct =         0   error =         0
+t =  0.15   yaprx = 1.4777233   yexct = 1.4888503   error =0.011127024
+t =   0.3   yaprx = 2.9231781   yexct = 2.9131261   error =0.010051956
+t =  0.45   yaprx = 4.2746304   yexct = 4.2189901   error =0.055640326
+t =   0.6   yaprx = 5.4823372   yexct = 5.3704957   error =0.11184155
+t =  0.75   yaprx = 6.5159157   yexct = 6.3514895   error =0.16442617
+t =   0.9   yaprx = 7.3662397   yexct = 7.1629787   error =0.20326099
+t =  1.05   yaprx = 8.0421284   yexct = 7.8180636   error =0.22406479
+t =   1.2   yaprx = 8.5641219   yexct = 8.3365461   error =0.22757581
+t =  1.35   yaprx = 8.9580211   yexct = 8.7405329   error =0.21748821
+t =   1.5   yaprx = 9.2499285   yexct = 9.0514825   error =0.19844592
+t =  1.65   yaprx = 9.4632943   yexct = 9.2885762   error = 0.1747181
+t =   1.8   yaprx = 9.6176582   yexct = 9.4680601   error =0.14959806
+t =  1.95   yaprx = 9.7284971   yexct = 9.6031939   error =0.12530317
+t =   2.1   yaprx =  9.807649   yexct = 9.7045194   error =0.10312965
+t =  2.25   yaprx = 9.8639506   yexct = 9.7802611   error =0.083689435
+t =   2.4   yaprx = 9.9038857   yexct = 9.8367486   error =0.067137166
+t =  2.55   yaprx = 9.9321553   yexct =  9.878804   error =0.053351317
+t =   2.7   yaprx = 9.9521384   yexct = 9.9100745   error =0.042063875
+t =  2.85   yaprx = 9.9662498   yexct = 9.9333039   error =0.032945944
+t =     3   yaprx = 9.9762077   yexct = 9.9505475   error =0.025660121
+
+Taylor output (N = 40)
+t =     0   yaprx =         0   yexct =         0   error =         0
+t = 0.075   yaprx =0.74440302   yexct =0.74859691   error =0.0041938873
+t =  0.15   yaprx =  1.484681   yexct = 1.4888503   error =0.0041693012
+t = 0.225   yaprx = 2.2126753   yexct = 2.2127847   error =0.00010933475
+t =   0.3   yaprx = 2.9206329   yexct = 2.9131261   error =0.0075067723
+t = 0.375   yaprx = 3.6015376   yexct =  3.583574   error =0.017963637
+t =  0.45   yaprx = 4.2493836   yexct = 4.2189901   error =0.030393527
+t = 0.525   yaprx = 4.8593678   yexct =  4.815498   error =0.04386982
+t =   0.6   yaprx = 5.4279915   yexct = 5.3704957   error =0.057495878
+t = 0.675   yaprx = 5.9530704   yexct = 5.8825926   error =0.070477855
+t =  0.75   yaprx = 6.4336641   yexct = 6.3514895   error =0.082174576
+t = 0.825   yaprx = 6.8699436   yexct =  6.777821   error =0.092122562
+t =   0.9   yaprx = 7.2630172   yexct = 7.1629787   error =0.10003851
+t = 0.975   yaprx = 7.6147371   yexct = 7.5089328   error =0.10580424
+t =  1.05   yaprx = 7.9275038   yexct = 7.8180636   error =0.10944023
+t = 1.125   yaprx = 8.2040844   yexct = 8.0930107   error =0.11107369
+t =   1.2   yaprx = 8.4474521   yexct = 8.3365461   error =0.11090599
+t = 1.275   yaprx = 8.6606532   yexct = 8.5514703   error =0.10918292
+t =  1.35   yaprx = 8.8467025   yexct = 8.7405329   error =0.10616962
+t = 1.425   yaprx = 9.0085049   yexct = 8.9063737   error = 0.1021312
+t =   1.5   yaprx = 9.1488013   yexct = 9.0514825   error =0.097318769
+t = 1.575   yaprx = 9.2701348   yexct = 9.1781744   error =0.091960353
+t =  1.65   yaprx = 9.3748321   yexct = 9.2885762   error =0.086255889
+t = 1.725   yaprx = 9.4649981   yexct = 9.3846228   error =0.080375278
+t =   1.8   yaprx = 9.5425188   yexct = 9.4680601   error =0.074458687
+t = 1.875   yaprx = 9.6090709   yexct = 9.5404526   error =0.068618335
+t =  1.95   yaprx = 9.6661351   yexct = 9.6031939   error =0.062941168
+t = 2.025   yaprx = 9.7150113   yexct = 9.6575193   error =0.05749198
+t =   2.1   yaprx =  9.756836   yexct = 9.7045194   error =0.052316642
+t = 2.175   yaprx = 9.7925983   yexct =  9.745153   error =0.047445243
+t =  2.25   yaprx = 9.8231561   yexct = 9.7802611   error =0.042894995
+t = 2.325   yaprx =  9.849252   yexct = 9.8105791   error =0.038672832
+t =   2.4   yaprx = 9.8715263   yexct = 9.8367486   error =0.034777677
+t = 2.475   yaprx = 9.8905306   yexct = 9.8593283   error =0.031202379
+t =  2.55   yaprx = 9.9067393   yexct =  9.878804   error =0.027935325
+t = 2.625   yaprx = 9.9205593   yexct = 9.8955975   error =0.024961774
+t =   2.7   yaprx = 9.9323395   yexct = 9.9100745   error =0.022264931
+t = 2.775   yaprx = 9.9423787   yexct = 9.9225519   error =0.019826799
+t =  2.85   yaprx = 9.9509327   yexct = 9.9333039   error =0.01762885
+t = 2.925   yaprx =   9.95822   yexct = 9.9425674   error =0.015652533
+t =     3   yaprx = 9.9644272   yexct = 9.9505475   error =0.013879658
+
+
+Taylor output (N = 80)
+t =     0   yaprx =         0   yexct =         0   error =         0
+t =0.0375   yaprx =0.37359726   yexct =0.37482432   error =0.0012270585
+t = 0.075   yaprx =0.74667307   yexct =0.74859691   error =0.0019238369
+t =0.1125   yaprx = 1.1181874   yexct = 1.1202778   error =0.0020903638
+t =  0.15   yaprx = 1.4871135   yexct = 1.4888503   error =0.0017368779
+t =0.1875   yaprx = 1.8524486   yexct =  1.853332   error =0.00088340915
+t = 0.225   yaprx = 2.2132256   yexct = 2.2127847   error =0.00044093429
+t =0.2625   yaprx = 2.5685227   yexct = 2.5663238   error =0.0021989393
+t =   0.3   yaprx = 2.9174726   yexct = 2.9131261   error =0.0043464745
+t =0.3375   yaprx = 3.2592706   yexct = 3.2524367   error =0.0068338371
+t = 0.375   yaprx = 3.5931812   yexct =  3.583574   error =0.0096071994
+t =0.4125   yaprx = 3.9185435   yexct = 3.9059334   error =0.012610096
+t =  0.45   yaprx = 4.2347749   yexct = 4.2189901   error =0.015784894
+t =0.4875   yaprx = 4.5413738   yexct = 4.5222996   error =0.019074192
+t = 0.525   yaprx = 4.8379201   yexct =  4.815498   error =0.02242211
+t =0.5625   yaprx = 5.1240752   yexct = 5.0982997   error =0.025775418
+t =   0.6   yaprx = 5.3995802   yexct = 5.3704957   error =0.029084501
+t =0.6375   yaprx = 5.6642534   yexct = 5.6319493   error =0.03230413
+t = 0.675   yaprx = 5.9179866   yexct = 5.8825926   error =0.035394031
+t =0.7125   yaprx = 6.1607405   yexct = 6.1224212   error =0.038319266
+t =  0.75   yaprx =   6.39254   yexct = 6.3514895   error =0.041050438
+t =0.7875   yaprx = 6.6134683   yexct = 6.5699046   error =0.043563717
+t = 0.825   yaprx = 6.8236617   yexct =  6.777821   error =0.045840737
+t =0.8625   yaprx = 7.0233033   yexct = 6.9754349   error =0.047868355
+t =   0.9   yaprx =  7.212617   yexct = 7.1629787   error =0.049638329
+t =0.9375   yaprx = 7.3918621   yexct = 7.3407152   error =0.051146909
+t = 0.975   yaprx = 7.5613272   yexct = 7.5089328   error =0.052394385
+t = 1.012   yaprx = 7.7213252   yexct = 7.6679406   error =0.053384602
+t =  1.05   yaprx =  7.872188   yexct = 7.8180636   error =0.054124463
+t = 1.087   yaprx = 8.0142621   yexct = 7.9596386   error =0.054623438
+t = 1.125   yaprx = 8.1479038   yexct = 8.0930107   error =0.054893083
+t = 1.163   yaprx =  8.273476   yexct = 8.2185294   error =0.054946595
+t =   1.2   yaprx = 8.3913445   yexct = 8.3365461   error =0.054798389
+t = 1.238   yaprx = 8.5018745   yexct = 8.4474107   error =0.054463723
+t = 1.275   yaprx = 8.6054286   yexct = 8.5514703   error =0.053958355
+t = 1.313   yaprx = 8.7023644   yexct = 8.6490662   error =0.053298248
+t =  1.35   yaprx = 8.7930322   yexct = 8.7405329   error =0.052499318
+t = 1.388   yaprx = 8.8777737   yexct = 8.8261965   error =0.051577212
+t = 1.425   yaprx = 8.9569208   yexct = 8.9063737   error =0.050547136
+t = 1.463   yaprx = 9.0307943   yexct = 8.9813706   error =0.049423712
+t =   1.5   yaprx = 9.0997034   yexct = 9.0514825   error =0.048220866
+t = 1.538   yaprx = 9.1639449   yexct = 9.1169932   error =0.046951749
+t = 1.575   yaprx = 9.2238031   yexct = 9.1781744   error =0.045628678
+t = 1.613   yaprx = 9.2795493   yexct = 9.2352862   error = 0.0442631
+t =  1.65   yaprx = 9.3314418   yexct = 9.2885762   error =0.042865581
+t = 1.688   yaprx = 9.3797262   yexct = 9.3382804   error =0.041445798
+t = 1.725   yaprx = 9.4246354   yexct = 9.3846228   error =0.040012557
+t = 1.763   yaprx = 9.4663895   yexct = 9.4278157   error =0.038573812
+t =   1.8   yaprx = 9.5051968   yexct = 9.4680601   error =0.037136698
+t = 1.838   yaprx = 9.5412536   yexct =  9.505546   error =0.035707566
+t = 1.875   yaprx = 9.5747446   yexct = 9.5404526   error =0.034292021
+t = 1.913   yaprx = 9.6058439   yexct = 9.5729489   error =0.032894973
+t =  1.95   yaprx = 9.6347146   yexct = 9.6031939   error =0.031520679
+t = 1.988   yaprx =   9.66151   yexct = 9.6313372   error =0.030172788
+t = 2.025   yaprx = 9.6863737   yexct = 9.6575193   error =0.028854392
+t = 2.063   yaprx = 9.7094402   yexct = 9.6818722   error =0.027568067
+t =   2.1   yaprx = 9.7308353   yexct = 9.7045194   error =0.026315924
+t = 2.138   yaprx = 9.7506765   yexct = 9.7255768   error =0.025099645
+t = 2.175   yaprx = 9.7690735   yexct =  9.745153   error =0.023920531
+t = 2.213   yaprx =  9.786129   yexct = 9.7633495   error =0.022779534
+t =  2.25   yaprx = 9.8019384   yexct = 9.7802611   error =0.021677301
+t = 2.288   yaprx = 9.8165909   yexct = 9.7959767   error =0.020614202
+t = 2.325   yaprx = 9.8301695   yexct = 9.8105791   error =0.019590365
+t = 2.363   yaprx = 9.8427514   yexct = 9.8241457   error =0.018605706
+t =   2.4   yaprx = 9.8544085   yexct = 9.8367486   error =0.017659955
+t = 2.438   yaprx = 9.8652079   yexct = 9.8484552   error =0.016752681
+t = 2.475   yaprx = 9.8752116   yexct = 9.8593283   error =0.015883315
+t = 2.513   yaprx = 9.8844775   yexct = 9.8694263   error =0.015051172
+t =  2.55   yaprx = 9.8930594   yexct =  9.878804   error =0.014255466
+t = 2.588   yaprx = 9.9010073   yexct = 9.8875119   error =0.013495332
+t = 2.625   yaprx = 9.9083673   yexct = 9.8955975   error =0.012769838
+t = 2.663   yaprx = 9.9151827   yexct = 9.9031047   error =0.012077998
+t =   2.7   yaprx = 9.9214933   yexct = 9.9100745   error =0.011418787
+t = 2.738   yaprx = 9.9273363   yexct = 9.9165451   error =0.01079115
+t = 2.775   yaprx = 9.9327459   yexct = 9.9225519   error =0.01019401
+t = 2.813   yaprx = 9.9377542   yexct = 9.9281279   error =0.0096262813
+t =  2.85   yaprx = 9.9423907   yexct = 9.9333039   error =0.0090868705
+t = 2.888   yaprx = 9.9466829   yexct = 9.9381082   error =0.0085746875
+t = 2.925   yaprx = 9.9506561   yexct = 9.9425674   error =0.0080886491
+t = 2.963   yaprx = 9.9543339   yexct = 9.9467062   error =0.0076276843
+t =     3   yaprx = 9.9577383   yexct = 9.9505475   error =0.0071907378
